@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "coba_convert_bpkb",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "coba_convert_bpkb (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "coba_convert_bpkb (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "baf_qr",
+            "cwd": "baf_qr",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "baf_qr (profile mode)",
+            "cwd": "baf_qr",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "baf_qr (release mode)",
+            "cwd": "baf_qr",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
